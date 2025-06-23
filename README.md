@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dzakkiyansyah/dzakkiyansyah/main/assets/wave.gif" width="45px" />
+</p>
 
-<!--
-**Dzakkiyansyah/Dzakkiyansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Dzakkiyansyah</h1>
 
-Here are some ideas to get you started:
+<!-- Animated Typing SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=Passionate+Front-End+Developer;Crafting+Modern+Web+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
