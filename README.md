@@ -2,58 +2,44 @@
   <img src="https://raw.githubusercontent.com/dzakkiyansyah/dzakkiyansyah/main/assets/wave.gif" width="45px" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Dzakkiyansyah</h1>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;Crafting+Modern+Web+Experiences;Turning+Ideas+Into+Reality;Always+Learning+and+Building" alt="Typing SVG" />
-  </a>
-</div>
+<h1 align="center">Hey, I'm <span style="color:#00D4FF">Dzakkiyansyah</span> 👨‍💻</h1>
+<h3 align="center">Front-End Developer | Crafting Modern & Scalable Web Experiences</h3>
 
 ---
 
-### 🚀 About Me
+### 🧠 About Me
+I'm a **Front-End Developer** passionate about creating **modern, elegant, and performant** web apps.  
+I love translating ideas into intuitive user experiences using **React**, **Next.js**, and **TypeScript**.  
 
-I’m a **Front-End Developer** passionate about creating smooth, modern, and responsive web applications.
-My main focus is turning complex ideas into functional and intuitive experiences using **React, Next.js, and modern JavaScript tools**.
-
-- 📍 Based in **Banda Aceh, Indonesia**
-- 🚀 Explore my work: [My Portfolio](http://portfolio-nu-five-95.vercel.app/)
-- 🌱 Currently learning **TypeScript, Next.js 14, and Supabase**
-- 💼 Open to **freelance & remote opportunities**
-- ✨ Motto: *Code clean, design intuitive, build impactful*
+🚀 Always exploring new technologies, currently diving deeper into **Next.js 14** and **Supabase**.  
+✨ Motto: *"Code clean. Design intuitive. Build impactful."*
 
 ---
 
-### 💻 Skills & Tools
-
+### ⚙️ Tech Stack
 <p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a>
-<a href="https://nextjs.org/docs" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="NextJs"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a>
-<a href="https://mui.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" title="Material UI"/></a>
-<a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,git,vscode,figma,supabase" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 📂 Projects
+- 🧩 [Personal Portfolio](https://www.dzakkiyansyah.my.id/) – Showcasing my projects & creative work.  
+- ⚡ Interactive UI experiments with **Framer Motion** & **Tailwind**.  
+- 🌐 Exploring full-stack setups with **Next.js + Supabase**.
 
+---
+
+### 🌍 Connect With Me
 <p align="center">
-  <a href="https://www.dev.to/dzakkiyansyah" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV"/></a>
-  <a href="https://discord.com/users/dzakkiyansyah." target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord"/></a>
-  <a href="http://www.instagram.com/dzakkiyansyahh" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/dzakkiyansyah" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/dzakkiyansyah" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://instagram.com/dzakkiyansyahh" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="https://dev.to/dzakkiyansyah" target="_blank"><img src="https://skillicons.dev/icons?i=devto" width="40"/></a>
 </p>
 
 ---
 
 ### ☕ Support Me
-
 <p align="center">
-<a href="https://www.ko-fi.com/dzakkiyansyah"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
+  <a href="https://ko-fi.com/dzakkiyansyah"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="140" /></a>
 </p>
